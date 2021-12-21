@@ -1,0 +1,1 @@
+# shopalo-policy
